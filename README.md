@@ -13,7 +13,7 @@
 </div>
 
 <div>
-  <a href="http://https://www.instagram.com/ander_petry/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Ícone Instagram"></a>
+  <a href="http://https://www.instagram.com/ander_petry/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Ícone Instagram" target="_blank"></a>
   <a href="http://" target="_blank"></a>
   <a href="http://" target="_blank"></a>
 </div>
