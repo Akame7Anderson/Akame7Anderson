@@ -9,7 +9,7 @@
 
 <div><br>
   <h2 align="center"><i>📚 Desenvolvendo/evoluindo constantemente em 📚</i></h2>
-  <!--<img align="left" width="220px" height="180px" src="./images/cyber-02.png" alt=" coding"> -->
+  <img align="left" width="220px" height="180px" src="./img/code.gif" alt="code">
   <br><br>
   <p align="center">
     <img align="center" alt="Andy-HTML" heigth="80" width="90" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -22,12 +22,12 @@
 <br>
 <div>
   <h2 align="center">💬 <i>Onde me achar</i> 💬</h2>
-  <!--<img align="left" width="220px" height="180px" src="./images/cyber-02.png" alt=" coding"> -->
+  <img align="right" width="220px" height="180px" src="./img/contato.gif" alt="contato">
   <br><br>
   <p align="center"> 
-    <a href="http://www.instagram.com/ander_petry/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="http://www.linkedin.com/in/anderson-petry-8114381a5/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://img.shields.io/badge/akameyang-7289DA?logo=discord&logoColor=white" target="_blank"><img align="center" src="https://img.shields.io/badge/akameyang-7289DA?logo=discord&logoColor=white" target="_blank">      </a>
-    <a href="https://wa.me/55997002614" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" target="_blank"></a>
+    <a href="http://www.instagram.com/ander_petry/" target="_blank"><img align="center" height="30" src="https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="http://www.linkedin.com/in/anderson-petry-8114381a5/" target="_blank"><img align="center" height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://img.shields.io/badge/akameyang-7289DA?logo=discord&logoColor=white" target="_blank"><img align="center" height="30" src="https://img.shields.io/badge/akameyang-7289DA?logo=discord&logoColor=white" target="_blank"></a>
+    <a href="https://wa.me/55997002614" target="_blank"><img align="center" height="30" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" target="_blank"></a>
   </p>
 </div>
