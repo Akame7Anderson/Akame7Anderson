@@ -21,7 +21,7 @@
 <br>
 <br>
 <div>
-  <h2 align="center">💬 <i>Onde me achar</i> 💬</h2>
+  <h2 align="center">💬 <i>Onde me encontrar</i> 💬</h2>
   <img align="right" width="220px" height="180px" src="./img/contato.gif" alt="contato">
   <br><br>
   <p align="center"> 
