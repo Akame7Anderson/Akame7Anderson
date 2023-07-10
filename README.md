@@ -2,8 +2,9 @@
 <div align="center">
   <h2 align="center"><i>📈 Breves estatísticas do meu perfil 📈</i></h2>
   <a href="https://github.com/Akame7Anderson">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Akame7Anderson&show_icons=true&theme=radical"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akame7Anderson&layout=compact&theme=radical"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Akame7Anderson&show_icons=true&theme=tokyonight"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akame7Anderson&layout=compact&theme=tokyonight"/>
+  <img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=Akame7Anderson&theme=tokyonight&hide_border=true">
 </div>
 
 <div><br>
