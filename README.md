@@ -12,8 +12,10 @@
   <img align="center" alt="Andy-HTML" heigth="120" width="130" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 <br>
+<br>
+<br>
 <div>
-  <p>Minhas redes 👇</p>
+  <p>Onde me achar</p>
   <a href="http://www.instagram.com/ander_petry/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" target="_blank"></a>
   <a href="http://www.linkedin.com/in/anderson-petry-8114381a5/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://img.shields.io/badge/akameyang-7289DA?logo=discord&logoColor=white" target="_blank"><img align="center" src="https://img.shields.io/badge/akameyang-7289DA?logo=discord&logoColor=white" target="_blank"></a>
